@@ -1,1 +1,3 @@
 this is another new file
+
+these are additional lines in second new file
